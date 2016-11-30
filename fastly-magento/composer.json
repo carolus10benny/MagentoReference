@@ -1,0 +1,16 @@
+{
+    "name": "fastly/cdn",
+    "type": "magento-module",
+    "license":"community",
+    "description":"Fastly CDN module for Magento 1.x",
+    "version": "1.0.3",
+    "authors":[
+        {
+            "name":"Fastly",
+            "email":"support@fastly.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
